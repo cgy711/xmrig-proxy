@@ -37,8 +37,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:5555",
-            "user": "YOUR_WALLET",
+            "url": "sg.minexmr.com:3333",
+            "user": "44JMEzisYP6gAZAEuGD7nhfmCX6ivbuzuLfgtPU77hZsHL7VqCMFFYAapREBBsP8zUQEog9Kirzm489Zj4VAEJSJMQ1vsWh",
             "pass": "x",
             "rig-id": null,
             "keepalive": false,
